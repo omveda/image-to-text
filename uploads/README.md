@@ -1,0 +1,1 @@
+This is where all of your image and text files will be stored. Currently working on implementing a database with GUI.
