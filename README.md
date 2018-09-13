@@ -127,6 +127,6 @@ npm run start
 ```
 open browser at http://localhost:3000
 
-Thanks for looking into my application, hope you enjoy using it! Also shoutout to the amazing people and google for their API, it's pretty awesome.
+Thanks for looking into my application, hope you enjoy using it! Also shoutout to the amazing people at google for their OCR API, it's pretty awesome.
 
 
