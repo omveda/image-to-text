@@ -37,20 +37,16 @@ Vim: ```vim index.js```
 3. Adjust lines 1 and 7 (all lines that refer to your api key). Find the path for your api key, which you can do by opening the file in the finder inspector (⌘i) and select whatever text is in the 'Where' property. Paste that text somewhere, like a sticky note, or other temporary text storage and add a / character after it. Then grab the name of the file from the 'Name & Extension' section of the finder inspector and paste that after the file path and the slash. Copy that new path and paste it over the file path on lines 1 and 7. An example of my working file path, is currently in the code, again on lines 1 and 7 so make sure it roughly matches that format. Finally don't forget to escape spaces! if your filepath or file-name has any spaces in it (realistically it shouldn't but if it does) add a \ before them and it should work.
 
 
-random example file path without spaces: 
+**random example file path without spaces:**
 
 path: ```/Users/Jack/Desktop/workingProjects/keys/```
-
 key file name: ```my-key-1234-jjes2731y4.json```
-
 whole path: ```/Users/Jack/Desktop/working\ projects/keys/my-key-1234-jjes2731y4.json```
 
-random example file path with spaces:
+**random example file path with spaces:**
 
 path: ```/Users/Jack/Desktop/working\ projects/keys/```
-
 key file name: ```my-key-1234-jjes2731y4.json```
-
 whole path: ```/Users/Jack/Desktop/working\ projects/keys/my-key-1234-jjes2731y4.json```
 
 Once you updated your file path, make sure to save.
