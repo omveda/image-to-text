@@ -39,17 +39,25 @@ Vim: ```vim index.js```
 
 **random example file path without spaces:**
 
+
 path: ```/Users/Jack/Desktop/workingProjects/keys/```
+
 key file name: ```my-key-1234-jjes2731y4.json```
+
 whole path: ```/Users/Jack/Desktop/working\ projects/keys/my-key-1234-jjes2731y4.json```
+
 
 **random example file path with spaces:**
 
-path: ```/Users/Jack/Desktop/working\ projects/keys/```
+
+path: ```/Users/Jack/Desktop/working\ projects/keys/ ```
+
 key file name: ```my-key-1234-jjes2731y4.json```
+
 whole path: ```/Users/Jack/Desktop/working\ projects/keys/my-key-1234-jjes2731y4.json```
 
 Once you updated your file path, make sure to save.
+
 
 ### Build
 
