@@ -50,11 +50,11 @@ whole path: ```/Users/Jack/Desktop/working\ projects/keys/my-key-1234-jjes2731y4
 **random example file path with spaces:**
 
 
-path: ```/Users/Jack/Desktop/working\ projects/keys/ ```
+path: ```~/Documents/projects/keys/ ```
 
-key file name: ```my-key-1234-jjes2731y4.json```
+key file name: ```my-key.json```
 
-whole path: ```/Users/Jack/Desktop/working\ projects/keys/my-key-1234-jjes2731y4.json```
+whole path: ```~/Documents/projects/keys/my-key.json```
 
 Once you updated your file path, make sure to save.
 
